@@ -2,11 +2,10 @@ package MyPaquetote;
 
 
 /**
- * @author Orlando Hernandez Cruz Google´sC
- * Universidad Tecnologica del Norte de Coahuila
- * Tecnologias de la Información y Comunicación Area Sistemas Informaticos
+ * @author Masterk3y (@OrlandoHC)
  * Estructura de Datos
  */
+
 import java.io.*;
 
 public class Main {

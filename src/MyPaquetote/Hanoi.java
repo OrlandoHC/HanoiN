@@ -2,7 +2,6 @@ package MyPaquetote;
 
 
 /**
- *
  * @author Masterk3y (@OrlandoHC)
  * Estructura de Datos
  */
